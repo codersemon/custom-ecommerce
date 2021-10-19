@@ -1,0 +1,26 @@
+.search-wrap{
+    padding: 10px 10%;
+    display: flex;
+}
+.search-div{
+    width: 50%;
+}
+.cart-div{
+    width: 50%;
+}
+.cart-div ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+.cart-div ul li{
+    padding: 0 10px;
+}
+.search-wrap {
+    padding: 10px 10%;
+    display: flex;
+    background: #000;
+    color: #fff;
+}

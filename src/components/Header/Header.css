@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10%;
+    background: #3498db;
+}
+.logo-div{
+    width: 30%;
+}
+.logo-div img{
+    height: 120px;
+}
+.main-menu{
+    width: 70%;
+    text-align: right;
+}
+.main-menu ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+nav.main-menu a {
+    text-decoration: none;
+    color: #fff;
+    display: inline-block;
+    padding: 15px;
+    line-height: 57px;
+}
